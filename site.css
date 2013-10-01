@@ -1,0 +1,28 @@
+body {
+    font:normal 12px/20px 'Helvetica Neue';
+    color:#222;
+}
+
+h1 {
+    font-size:40px;
+}
+
+.page {
+    max-width:500px;
+    margin:0 auto;
+}
+
+.post {
+    display:block;
+    padding:20px 0;
+    border-top:1px solid #ccc;
+    text-align:center;
+}
+
+.post img {
+    max-width:100%;
+}
+
+.center {
+    text-align:center;
+}
