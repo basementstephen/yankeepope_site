@@ -26,3 +26,17 @@ h1 {
 .center {
     text-align:center;
 }
+
+.attention {
+    display:block;
+    padding:20px 0;
+    text-align:center;
+    color:red;
+    background-color: yellow;
+}
+
+.attention_img {
+    display:block;
+    padding:20px 0;
+    text-align:center;
+}
