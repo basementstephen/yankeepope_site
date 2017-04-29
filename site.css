@@ -1,47 +1,15 @@
-body {
-    font:normal 12px/20px 'Helvetica Neue';
-    color:#222;
-}
-
 h1 {
-    font-size:40px;
+    color: black;
 }
 
-.page {
-    max-width:500px;
-    margin:0 auto;
+ a {
+    color: black;
 }
 
-.post {
-    display:block;
-    padding:20px 0;
-    border-top:1px solid #ccc;
-    text-align:center;
+p {
+    color: purple;
 }
 
-.post img {
-    max-width:100%;
+.red {
+    color: red;
 }
-
-.center {
-    text-align:center;
-}
-
-.attention {
-    display:block;
-    padding:20px 0;
-    text-align:center;
-    color:red;
-    background-color: yellow;
-}
-
-.attention_img {
-    display:block;
-    padding:20px 0;
-    text-align:center;
-}
-
-#gif > img {
-    margin-right: -1000px;
-}
-

@@ -1,0 +1,37 @@
+body {
+	font-family: 'Metal Mania', cursive;
+}
+
+h1 {
+    color: black;
+    font-family: 'Metal Mania', cursive;
+}
+
+h2 {
+	font-size: 'Miltonian', cursive;
+}
+
+a:link {
+    color: black;
+}
+
+
+/* visited link */
+a:visited {
+    color: black;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: grey;
+}
+
+.bigness {
+	font-size: 200%;
+}
